@@ -24,7 +24,7 @@ Other useful commands to see what is going on the git repository:
 - [V] Update newfile.txt and push the changes to GitHub
 - [V] Open the repository on GitHub and make changes to `newfile.txt`
 - [V] Pull the changes to your local repository
-- [ ] Create a new branch named "branch-1" and push to Github
+- [V] Create a new branch named "branch-1" and push to Github
 
 ## Practice Output 
 1. Your repo url in Github
